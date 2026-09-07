@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/Atiq/Android/C Workspace/prac/reversenteger'
+relocations:     []
+...
